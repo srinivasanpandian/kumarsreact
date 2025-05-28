@@ -23,7 +23,7 @@ const About = () => {
 
           {/* Pill Banner */}
           <div className="w-full my-6">
-            <div className="bg-secondary text-white text-center text-xl font-simplifica font-semibold rounded-full py-3 px-6 shadow-md" style={{maxWidth:'700px'}}>
+            <div className="text-center font-simplifica font-normal text-[25px] leading-tight bg-[#2e8687] text-white px-6 py-2" style={{borderRadius:'50px 4px 50px 4px', letterSpacing:'0.01em'}}>
               no msg, no food color, no artificial ingredients
             </div>
           </div>
