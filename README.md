@@ -1,3 +1,46 @@
+# Kumar's Plano - React Website
+
+This is a React-based website for Kumar's Plano restaurant, converted from a static HTML website.
+
+## Setup Instructions
+
+1. Install dependencies:
+```bash
+npm install
+```
+
+2. Copy the following directories from the original project to the `public` directory:
+- `img/` → `public/img/`
+- `fonts/` → `public/fonts/`
+
+3. Start the development server:
+```bash
+npm start
+```
+
+## Project Structure
+
+- `src/components/` - Reusable React components
+- `src/pages/` - Page components
+- `src/styles/` - CSS and style files
+- `public/` - Static assets (images, fonts)
+
+## Technologies Used
+
+- React.js
+- React Router
+- Tailwind CSS
+- Font Awesome
+- Google Fonts
+
+## Features
+
+- Responsive design
+- Modern UI with Tailwind CSS
+- Component-based architecture
+- Client-side routing
+- Mobile-friendly navigation
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
