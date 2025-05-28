@@ -28,6 +28,7 @@ const About = () => {
             </div>
           </div>
 
+
           {/* Features */}
           <div className="grid grid-cols-1 md:grid-cols-2 gap-y-4 gap-x-8 mt-6">
             <div className="border-l-4 border-secondary pl-4 font-amatic font-semibold text-[30px] text-[#0F172B] tracking-wide">
@@ -47,10 +48,10 @@ const About = () => {
 
         {/* Right: Image Grid */}
         <div className="flex-1 grid grid-cols-2 grid-rows-2 gap-4 min-w-[320px]">
-          <img src="/img/about-1.jpg" alt="Thali" className="w-full h-68 object-cover rounded-lg shadow-md col-start-1 row-start-1" />
-          <img src="/img/about-2.jpg" alt="Coffee" className="w-full h-68 object-cover rounded-lg shadow-md col-start-1 row-start-2" />
-          <img src="/img/about-3.jpg" alt="Dosa" className="w-full h-68 object-cover rounded-lg shadow-md col-start-2 row-start-1" />
-          <img src="/img/about-4.jpg" alt="Family" className="w-full h-68 object-cover rounded-lg shadow-md col-start-2 row-start-2" />
+          <img src="/img/about-1.jpg" alt="Thali" className="w-full h-68 object-cover  shadow-md col-start-1 row-start-1" />
+          <img src="/img/about-2.jpg" alt="Coffee" className="w-full h-68 object-cover  shadow-md col-start-1 row-start-2" />
+          <img src="/img/about-3.jpg" alt="Dosa" className="w-full h-68 object-cover  shadow-md col-start-2 row-start-1" />
+          <img src="/img/about-4.jpg" alt="Family" className="w-full h-68 object-cover  shadow-md col-start-2 row-start-2" />
         </div>
       </div>
     </section>
